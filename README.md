@@ -1,6 +1,6 @@
 A simple commuter schedule implementing only HTML, CSS, and JavaScript created to fullfill CSIP task. **OUTDATED*
 
-https://ahyar4y.github.io/commuter-schedule/
+[Click here to access](https://ahyar4y.github.io/commuter-schedule/)
 
 Only provides 3 stations (Cikarang, Bekasi, and Jakarta Kota).
 
